@@ -1,4 +1,4 @@
-# Macsonic-Callphone-Repair
+# Macsonic Callphone Repairs Website
 # Project Overview (Part 2)
 
 This is a multi-page website developed for "Macsonic Callphone Repairs," a business offering mobile phone and laptop repair services, as well as sales of refurbished and new devices. 
@@ -18,15 +18,15 @@ index.html and shop.html Screenshots
 
 # Desktop View (Resolution: >1024px):
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d09dbcf4-c943-41b8-8709-7bd69591e1e6"/>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d09dbcf4-c943-41b8-8709-7bd69591e1e6" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a8f4fde-735c-4939-b5fc-72ce777a0af3"/>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a8f4fde-735c-4939-b5fc-72ce777a0af3" />
 
 # Tablet View (Resolution: 769px - 1024px):
 
-<img width="882" height="631" alt="image" src="https://github.com/user-attachments/assets/2b13a1a3-33f7-4cd8-888a-3eca6c94309a"/>
+<img width="882" height="631" alt="image" src="https://github.com/user-attachments/assets/2b13a1a3-33f7-4cd8-888a-3eca6c94309a" />
 
-<img width="878" height="660" alt="image" src="https://github.com/user-attachments/assets/7046bc37-db10-4ec7-aeaf-a1a5b9f9ada5"/>
+<img width="878" height="660" alt="image" src="https://github.com/user-attachments/assets/7046bc37-db10-4ec7-aeaf-a1a5b9f9ada5" />
 
 # Mobile View (Resolution: <768px):
 
