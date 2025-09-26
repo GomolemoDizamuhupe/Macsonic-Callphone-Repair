@@ -49,7 +49,7 @@ Fixed image src paths by removing leading '/' (e.g., src="_images/ACER-NX_123EA_
 
 Standardised footer copyright to "© ST10491441. All rights reserved."
 
-### Reference
+# Reference
 Fring, G. [s.a.]. A technician repairing a circuit board. [video online] Available at: https://www.pexels.com/video/a-technician-repairing-a-circuit-board-7423951/ [Accessed 26 September 2025].
 Hostinger [s.a.]. Web hosting | A fast and secure platform for your website. [online] Available at: https://www.hostinger.com/web-hosting [Accessed 26 September 2025].
 Miroshnichenko, T. [s.a.]. Close-up shot of a printed circuit board. [video online] Available at: https://www.pexels.com/video/close-up-shot-of-a-printed-circuit-board-6754822/ [Accessed 26 September 2025].
