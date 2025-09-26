@@ -50,10 +50,29 @@ Fixed image src paths by removing leading '/' (e.g., src="_images/ACER-NX_123EA_
 Standardised footer copyright to "© ST10491441. All rights reserved."
 
 # Reference
-Fring, G. [s.a.]. A technician repairing a circuit board. [video online] Available at: https://www.pexels.com/video/a-technician-repairing-a-circuit-board-7423951/ [Accessed 26 September 2025].
-Hostinger [s.a.]. Web hosting | A fast and secure platform for your website. [online] Available at: https://www.hostinger.com/web-hosting [Accessed 26 September 2025].
-Miroshnichenko, T. [s.a.]. Close-up shot of a printed circuit board. [video online] Available at: https://www.pexels.com/video/close-up-shot-of-a-printed-circuit-board-6754822/ [Accessed 26 September 2025].
-SiteGround [s.a.]. Web hosting crafted for top website performance & speed. [online] Available at: https://world.siteground.com/web-hosting.htm?recommend=GrowBig [Accessed 26 September 2025].
-Tech.co.za [s.a.]. Acer Aspire Lite 16″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home. [online image] Available at: https://tech.co.za/product/acer-aspire-lite-16-laptop-i5-8gb-ram-512gb-ssd-win-11-home/?msclkid=881e228fb42a1db909814a24b12f9468&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778001&utm_content=Laptops [Accessed 26 September 2025].
-Continue this format for all your Tech.co.za references.
-Vallat, A. [s.a.]. Green and black computer hard disk drive. [electronic print] Available at: https://unsplash.com/photos/green-and-black-computer-hard-disk-drive-1GntEP783rI [Accessed 26 September 2025].
+Fring, G. [s.a.]. A technician repairing a circuit board. [video online] Available at: https://www.pexels.com/video/a-technician-repairing-a-circuit-board-7423951/ [Accessed 4 September 2025].
+
+Hostinger [s.a.]. Web hosting | A fast and secure platform for your website. [online] Available at: https://www.hostinger.com/web-hosting [Accessed 3 September 2025].
+
+Miroshnichenko, T. [s.a.]. Close-up shot of a printed circuit board. [video online] Available at: https://www.pexels.com/video/close-up-shot-of-a-printed-circuit-board-6754822/ [Accessed 3 September 2025].
+
+SiteGround [s.a.]. Web hosting crafted for top website performance & speed. [online] Available at: https://world.siteground.com/web-hosting.htm?recommend=GrowBig [Accessed 4 September 2025].
+
+Tech.co.za [s.a.]. Acer Aspire Lite 16″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home. [online image] Available at: https://tech.co.za/product/acer-aspire-lite-16-laptop-i5-8gb-ram-512gb-ssd-win-11-home/?msclkid=881e228fb42a1db909814a24b12f9468&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778001&utm_content=Laptops [Accessed 3 September 2025].
+
+Tech.co.za [s.a.]. Apple 13″ MacBook Air - Apple M3, 16GB RAM, 256GB SSD, macOS. [image online] Available at: https://tech.co.za/product/apple-13-macbook-air-apple-m3-16gb-ram-256gb-ssd-macos/
+ [Accessed 3 September 2025].
+
+Tech.co.za [s.a.]. Asus Expertbook P1503CVA 15.6″ laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home. [image online] Available at: https://tech.co.za/product/asus-expertbook-p1503cva-15-6-laptop-i5-8gb-ram-512gb-ssd-win-11-home-2/
+ [Accessed 3 September 2025].
+
+Tech.co.za [s.a.]. Dell Inspiron 3530 15.6″ laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home. [image online] Available at: https://tech.co.za/product/dell-inspiron-3530-15-6-laptop-i5-8gb-ram-512gb-ssd-win-11-home/
+ [Accessed 3 September 2025].
+
+Tech.co.za [s.a.]. HP 250 G10 15.6″ laptop - Celeron, 8GB RAM, 256GB SSD, Win 11 Home. [image online] Available at: https://tech.co.za/product/hp-250-g10-15-6-laptop-celeron-8gb-ram-256gb-ssd-win-11-home/
+ [Accessed 3 September 2025].
+
+Tech.co.za [s.a.]. Lenovo V15 G2 IJL 15.6″ laptop – Celeron, 8GB RAM, 256GB SSD, Win 11 Home. [image online] Available at: https://tech.co.za/product/lenovo-v15-g2-ijl-15-6-laptop-celeron-8gb-ram-256gb-ssd-win-11-home/
+ [Accessed 3 September 2025].
+ 
+Vallat, A. [s.a.]. Green and black computer hard disk drive. [electronic print] Available at: https://unsplash.com/photos/green-and-black-computer-hard-disk-drive-1GntEP783rI [Accessed 4 September 2025].
