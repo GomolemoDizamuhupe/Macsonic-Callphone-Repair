@@ -1,0 +1,286 @@
+body {
+  font-family: "Questrial", sans-serif;
+  background-color: #f7fef9;
+  margin: 0%;
+  padding: 2em;
+}
+
+.hero-background,
+.nav-container,
+#about-us-heading,
+#about-us-info,
+.footer-address,
+.footer-socials,
+.footer-links {
+  border-radius: 2em;
+}
+
+/*Navigation*/
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #e9f4ec;
+  padding: 2em;
+  margin-bottom: 2em;
+}
+
+.nav-content ul {
+  list-style: none;
+  display: flex;
+  gap: 2em;
+  margin: 0%;
+  padding: 0%;
+}
+
+.nav-content ul li a {
+  color: #0027f4;
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+#divide {
+  display: none;
+}
+
+
+/*About us*/
+#about-us-heading {
+  background-color: #0027f4;
+  padding: 4em;
+  margin: 0em 0em 1em 0em;
+}
+
+#about-us-heading h1 {
+  margin: 0;
+  color: white;
+  font-size: 4rem;
+  font-weight: 200;
+}
+
+.about-us-content {
+  display: flex;
+  flex-direction: row;
+  gap: 1.25em;
+}
+
+#about-us-info {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25em;
+  width: 50%;
+}
+
+.about-us-text {
+  background-color: #e9f4ec;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+#about-us-image {
+  width: 50%;
+}
+
+#about-us-image img {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1.5;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+#about-us-info h5 {
+  font-size: 1.2rem;
+}
+
+#about-us-info p {
+  font-size: 1.6rem;
+}
+
+#about-us-info h5,
+p {
+  color: #0027f4;
+}
+
+/*footer*/
+.footer-content {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  width: 100%;
+  margin-top: 1.55em;
+}
+
+.footer-address {
+  padding: 3em;
+  background-color: #0027f4;
+  width: 45%;
+}
+
+.footer-links {
+  background-color: #0027f4;
+  width: 20%;
+  padding: 3em;
+}
+
+.footer-socials {
+  background-color: #0027f4;
+  width: 20%;
+  padding: 3em;
+}
+
+.footer-content div ul {
+  list-style: none;
+  padding: 0%;
+}
+
+.footer-links ul li a,
+.footer-socials ul li a {
+  text-decoration: none;
+  color: #e9f4ec;
+  font-size: 1.4rem;
+}
+
+.footer-address ul li {
+  font-size: 1.4rem;
+  color: #e9f4ec;
+}
+
+.footer-links ul li:nth-child(4) {
+  margin-top: 5em;
+  color: #e9f4ec;
+}
+
+
+/*MEDIA*/
+@media (max-width: 768px) {
+
+  body {
+    padding: 0em;
+  }
+
+  .nav-container,
+  #about-us-heading,
+  .about-us-text,
+  .footer-address,
+  .footer-socials,
+  .footer-links {
+    border-radius: 2em 0em 0em 2em;
+  }
+
+
+  /*Navigation*/
+  .nav-container {
+    flex-direction: column;
+    gap: 1.1em;
+  }
+
+  .nav-content ul {
+    flex-direction: column;
+    gap: .5em;
+  }
+
+  .nav-content:nth-of-type(2) {
+    text-align: end;
+  }
+
+  .nav-content ul li a {
+    font-size: 1.2rem;
+  }
+
+  #divide {
+    display: block;
+    height: .1em;
+    border: none;
+    background-color: #0027f4;
+    width: 100%;
+  }
+
+
+  /*About us*/
+  #about-us-heading {
+    padding: 1.5em;
+    margin-bottom: 1.5em;
+  }
+
+  #about-us-heading h1 {
+    font-size: 2.3rem;
+  }
+
+  .about-us-content {
+    flex-direction: column;
+    gap: 1em;
+  }
+
+  #about-us-info {
+    flex-direction: column;
+    gap: .5em;
+    width: 100%;
+  }
+
+  #about-us-image img {
+    display: none;
+  }
+
+
+  /*Footer*/
+  .footer-content {
+    flex-direction: column;
+    width: 100%;
+    gap: .5em;
+    margin-top: 2em;
+  }
+
+  .footer-address {
+    padding: 1em;
+    width: auto;
+  }
+
+  .footer-links {
+    width: auto;
+    padding: 1em;
+  }
+
+  .footer-socials {
+    width: auto;
+    padding: 1em;
+  }
+
+  .footer-address ul li,
+  .footer-links ul li a,
+  .footer-socials ul li a {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width:1024px) {
+
+  body {
+    padding: 1em;
+  }
+
+
+  /*Footer*/
+  .footer-content {
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 2em;
+  }
+
+  .footer-address {
+    padding: 1em;
+  }
+
+  .footer-links {
+    padding: 1em;
+  }
+
+  .footer-socials {
+    padding: 1em;
+  }
+
+  .footer-address ul li,
+  .footer-links ul li a,
+  .footer-socials ul li a {
+    font-size: 1.2rem;
+  }
+}
