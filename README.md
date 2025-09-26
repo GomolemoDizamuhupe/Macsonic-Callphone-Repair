@@ -18,21 +18,24 @@ index.html and shop.html Screenshots
 
 # Desktop View (Resolution: >1024px):
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d09dbcf4-c943-41b8-8709-7bd69591e1e6" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/57c89339-baaf-4a76-bde0-28bf28f22744" />
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2a8f4fde-735c-4939-b5fc-72ce777a0af3" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/191de5e2-f684-4b50-ac0a-9a6a1a71077a" />
+
 
 # Tablet View (Resolution: 769px - 1024px):
 
-<img width="882" height="631" alt="image" src="https://github.com/user-attachments/assets/2b13a1a3-33f7-4cd8-888a-3eca6c94309a" />
+<img width="882" height="631" alt="image" src="https://github.com/user-attachments/assets/4cb0a139-9639-4550-8f5f-0becc14fdd8c" />
 
-<img width="878" height="660" alt="image" src="https://github.com/user-attachments/assets/7046bc37-db10-4ec7-aeaf-a1a5b9f9ada5" />
+<img width="878" height="660" alt="image" src="https://github.com/user-attachments/assets/da14f9db-f64a-4e2c-8fa8-cb17a2f18fb5" />
+
 
 # Mobile View (Resolution: <768px):
 
-<img width="889" height="633" alt="image" src="https://github.com/user-attachments/assets/db07f395-c7c7-45d9-9041-41e83fe561ca" />
+<img width="889" height="633" alt="image" src="https://github.com/user-attachments/assets/6ce61534-a949-4c32-a689-20f7865601cb" />
 
-<img width="864" height="638" alt="image" src="https://github.com/user-attachments/assets/8d33cc37-4f09-40f2-88a8-c8f15fa76b23" />
+<img width="864" height="638" alt="image" src="https://github.com/user-attachments/assets/6da6e831-e092-43ae-b5e3-5cde09dd89b9" />
+
 
 # Changelog
 
