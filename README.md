@@ -49,32 +49,11 @@ Fixed image src paths by removing leading '/' (e.g., src="_images/ACER-NX_123EA_
 
 Standardised footer copyright to "© ST10491441. All rights reserved."
 
-# References
-Sources used to estimate hosting and domain costs, and best practices:
-⦁	Hostinger South Africa - Web hosting pricing and packages
- Available at: ⦁	(https://www.hostinger.com/web-hosting)
- 
-⦁	SiteGround - Hosting solutions and SSL certificate information
- Available at: ⦁	(https://world.siteground.com/web-hosting.htm?recommend=GrowBig)
-
-IMAGES:
-
-⦁	ACCER-NX.J23EA.002b-990x743.jpg: ⦁	(https://tech.co.za/product/acer-aspire-lite-16-laptop-i5-8gb-ram-512gb-ssd-win-11-home/?msclkid=881e228fb42a1db909814a24b12f9468&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778001&utm_content=Laptops)
-
-⦁	artiom-vallat-1GntEP783rI-unsplash.jpg: ⦁	(https://unsplash.com/photos/green-and-black-computer-hard-disk-drive-1GntEP783rI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-
-⦁	ASUS-P1503CVAb-990x743.webp: ⦁	(https://tech.co.za/product/asus-expertbook-p1503cva-15-6-laptop-i5-8gb-ram-512gb-ssd-win-11-home-2/?msclkid=0c3ce2a8468714df9a6e8a034ccf1e36&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760777997&utm_content=Laptops)
-
-⦁	DELL-Inspiron-3530-b-990x743.webp: ⦁	(https://tech.co.za/product/dell-inspiron-3530-15-6-laptop-i5-8gb-ram-512gb-ssd-win-11-home/?msclkid=8f7fe57d44a91f4e205d8dd641fedd82&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760777997&utm_content=Laptops)
-
-⦁	HP-250-G10-ash-Black-b-990x743.webp: ⦁	(https://tech.co.za/product/hp-250-g10-15-6-laptop-celeron-8gb-ram-256gb-ssd-win-11-home/?msclkid=5c1d3705803215a5fbb65fae8403fd06&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778000&utm_content=Laptops)
-
-⦁	Lenovo-V15-G2-IJLb-990x743.webp: ⦁ (https://tech.co.za/product/lenovo-v15-g2-ijl-15-6-laptop-celeron-8gb-ram-256gb-ssd-win-11-home/?msclkid=0892fa57469e1c8f85d492fc45efd32c&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778000&utm_content=Laptops)
-
-⦁	MAC-A3113-Midnight-a-500x375.jpg:⦁	(https://tech.co.za/product/apple-13-macbook-air-apple-m3-16gb-ram-256gb-ssd-macos/?msclkid=64fc79bdf0251031f0251116f4addff6&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778000&utm_content=Laptops)
-
-VIDEOS:
-
-⦁	6754822-uhd_3840_2160_25fps.mp4: ⦁	(https://www.pexels.com/video/close-up-shot-of-a-printed-circuit-board-6754822/)
-
-⦁	7423951-uhd_2160_3840_30fps.mp4: ⦁	(https://www.pexels.com/video/a-technician-repairing-a-circuit-board-7423951/)
+### Reference
+Fring, G. [s.a.]. A technician repairing a circuit board. [video online] Available at: https://www.pexels.com/video/a-technician-repairing-a-circuit-board-7423951/ [Accessed 26 September 2025].
+Hostinger [s.a.]. Web hosting | A fast and secure platform for your website. [online] Available at: https://www.hostinger.com/web-hosting [Accessed 26 September 2025].
+Miroshnichenko, T. [s.a.]. Close-up shot of a printed circuit board. [video online] Available at: https://www.pexels.com/video/close-up-shot-of-a-printed-circuit-board-6754822/ [Accessed 26 September 2025].
+SiteGround [s.a.]. Web hosting crafted for top website performance & speed. [online] Available at: https://world.siteground.com/web-hosting.htm?recommend=GrowBig [Accessed 26 September 2025].
+Tech.co.za [s.a.]. Acer Aspire Lite 16″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home. [online image] Available at: https://tech.co.za/product/acer-aspire-lite-16-laptop-i5-8gb-ram-512gb-ssd-win-11-home/?msclkid=881e228fb42a1db909814a24b12f9468&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20Campaign%20-%20Laptops%20-%20ZA&utm_term=4586612760778001&utm_content=Laptops [Accessed 26 September 2025].
+Continue this format for all your Tech.co.za references.
+Vallat, A. [s.a.]. Green and black computer hard disk drive. [electronic print] Available at: https://unsplash.com/photos/green-and-black-computer-hard-disk-drive-1GntEP783rI [Accessed 26 September 2025].
