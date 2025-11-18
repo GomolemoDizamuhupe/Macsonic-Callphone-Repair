@@ -3,13 +3,21 @@
 
 <head>
     <meta charset="UTF-8">
+    <!--SEO-->
+    <meta name="description"
+        content="Shop refurbished laptops & cellphones at Macsonic. Affordable HP, Dell, Lenovo, Apple MacBooks & more. Quality guaranteed with fast delivery in Kempton Park.">
+    <meta name="keywords"
+        content="refurbished laptops, cheap laptops, HP laptop, Dell laptop, Lenovo, MacBook, cellphones, computer shop Kempton Park, Macsonic, affordable laptops">
+    <meta name="author" content="Gomolemo Dizamuhupe">
+    <meta name="robots" content="index, follow">
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/31e9408e80.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="shop.css">
-    <title>Shop</title>
+    <title>Shop Macsonic | Shop Refurbished Laptops & Cellphones</title>
 </head>
 
 <body>
@@ -26,9 +34,9 @@
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="about_us.html">About</a></li>
-                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="shop.html" style="text-decoration: underline #0027f4;">Shop</a></li>
                     <li><a href="contact.html">Contact</a></li>
-                    <li><a href="repair.html">Book for Repair</a></li>
+                    <li><a href="repair.html"><span style="color: #000000;">Book for Repair</span></a></li>
                 </ul>
             </div>
         </nav>
@@ -36,77 +44,100 @@
 
     <!--Main content-->
     <main>
+
+        <section class="checkout">
+            <p></p>
+        </section>
+
         <section class="products">
             <div>
                 <div id="product-heading">
-                    <h1>Products</h1>
+                    <div id="heading">
+                        <h1>Products</h1>
+                    </div>
+                    <div>
+                        <button id="view-cart" onclick="location.href='checkout.html'"><i
+                                class="fa-solid fa-cart-shopping fa-2xl" style="color: #ffffff;"></i></button>
+                        <button id="notfication">0</button>
+                    </div>
+                </div>
+
+                <!--Search bar-->
+                <div class="search-bar">
+                    <input type="text" id="searchBox" placeholder="Search..." />
                 </div>
                 <div class="product-card-container">
                     <!--Products-->
                     <div class="product-card">
                         <a href="#">
-                            <img src="ACCER-NX.J23EA.002b-990x743.jpg" alt="Product Image">
-                            <h2>ACER</h2>
-                            <p class="info">Acer Aspire Lite 16″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home</p>
-                            <p>R8,000.00</p>
-                            <!--<button class="cart-btn">Add To Cart</button>-->
-                        </a>
-                    </div>
-
-                    <div class="product-card">
-                        <a href="#">
-                            <img src="ASUS-P1503CVAb-990x743.webp" alt="Product Image">
+                            <img src="_images/ASUS-P1503CVAb-990x743.webp" alt="Product Image" class="lightbox-trigger"
+                                data-full="_images/ASUS-P1503CVAb-990x743.webp">
                             <h2>ASUS</h2>
                             <p class="info">Asus Expertbook P1503CVA 15.6″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home
                             </p>
                             <p>R10,000.00</p>
-                            <!--<button class="cart-btn">Add To Cart</button>-->
+                            <button class="cart-btn" data-price="10000.00" data-product="ASUS">Add To Cart</button>
                         </a>
                     </div>
 
                     <div class="product-card">
                         <a href="#">
-                            <img src="DELL-Inspiron-3530-b-990x743.webp" alt="Product Image">
+                            <img src="_images/ACCER-NX.J23EA.002b-990x743.jpg" alt="Product Image"
+                                class="lightbox-trigger" data-full="_images/ACCER-NX.J23EA.002b-990x743.jpg">
+                            <h2>ACER</h2>
+                            <p class="info">Acer Aspire Lite 16″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home</p>
+                            <p>R8,000.00</p>
+                            <button class="cart-btn" data-price="8000.00" data-product="ACER">Add To Cart</button>
+                        </a>
+                    </div>
+                    <div class="product-card">
+                        <a href="#">
+                            <img src="_images/DELL-Inspiron-3530-b-990x743.webp" alt="Product Image"
+                                class="lightbox-trigger" data-full="_images/DELL-Inspiron-3530-b-990x743.webp">
                             <h2>DELL</h2>
                             <p class="info">Dell Inspiron 3530 15.6″ Laptop - i5, 8GB RAM, 512GB SSD, Win 11 Home</p>
                             <p>R9,500.00</p>
-                            <!--<button class="cart-btn">Add To Cart</button>-->
+                            <button class="cart-btn" data-price="9500.00" data-product="DELL">Add To Cart</button>
                         </a>
                     </div>
-
                     <div class="product-card">
                         <a href="#">
-                            <img src="HP-250-G10-ash-Black-b-990x743.webp" alt="Product Image">
+                            <img src="_images/HP-250-G10-ash-Black-b-990x743.webp" alt="Product Image"
+                                class="lightbox-trigger" data-full="_images/HP-250-G10-ash-Black-b-990x743.webp">
                             <h2>HP</h2>
                             <p class="info">HP 250 G10 15.6″ Laptop - Celeron, 8GB RAM, 256GB SSD, Win 11 Home</p>
                             <p>R4,500.00</p>
-                            <!--<button class="cart-btn">Add To Cart</button>-->
+                            <button class="cart-btn" data-price="4500.00" data-product="HP">Add To Cart</button>
                         </a>
                     </div>
 
                     <div class="product-card">
                         <a href="#">
-                            <img src="Lenovo-V15-G2-IJLb-990x743.webp" alt="Product Image">
+                            <img src="_images/Lenovo-V15-G2-IJLb-990x743.webp" alt="Product Image"
+                                class="lightbox-trigger" data-full="_images/Lenovo-V15-G2-IJLb-990x743.webp">
                             <h2>Lenovo</h2>
                             <p class="info">Lenovo V15 G2 IJL 15.6″ Laptop - Celeron, 8GB RAM, 256GB SSD, Win 11 Home
                             </p>
                             <p>R5,000.00</p>
-                            <!--<button class="cart-btn">Add To Cart</button>-->
+                            <button class="cart-btn" data-price="5000.00" data-product="LENOVO">Add To Cart</button>
                         </a>
                     </div>
 
                     <div class="product-card">
                         <a href="#">
-                            <img src="MacBook_Air_13_inch_M2_Chip_Midnight_0-991x743.jpg" alt="Product Image">
+                            <img src="_images/MacBook_Air_13_inch_M2_Chip_Midnight_0-991x743.jpg" alt="Product Image"
+                                class="lightbox-trigger"
+                                data-full="_images/MacBook_Air_13_inch_M2_Chip_Midnight_0-991x743.jpg">
                             <h2>Mac book</h2>
                             <p class="info">Apple 13″ MacBook Air - Apple M3, 16GB RAM, 256GB SSD, MacOS</p>
                             <p>R17,300.00</p>
-                            <!--<button class="cart-btn">Add To Cart</button>-->
+                            <button class="cart-btn" data-price="17300.00" data-product="MACBOOK">Add To Cart</button>
                         </a>
                     </div>
                 </div>
-                <div>
-                    <button class="shop-btn"><a href="#">Shop Now</a></button>
+                <div id="lightbox" class="lightbox">
+                    <span class="close">&times;</span>
+                    <img class="lightbox-image" id="lightbox-img" src="" alt="Full size image">
                 </div>
             </div>
         </section>
@@ -117,7 +148,12 @@
         <div class="footer-content">
             <div class="footer-address">
                 <ul>
-                    <li>+27 78 473 0033</li>
+                    <li><a href="tell:+27 72 456 8910" style="color: #ffffff; text-decoration: none;">+27 72 456
+                            8910</a></li>
+                    <br>
+                    <li><a href="mailto:gomolemodizamuhupe@gmail.com"
+                            style="color: #ffffff; text-decoration: none;">gomolemodizamuhupe@gmail.com</a></li>
+                    <br>
                     <li>16 Isando Rd, </li>
                     <li>Isando,</li>
                     <li>Kempton Park,</li>
@@ -149,8 +185,8 @@
             </div>
         </div>
     </footer>
+
+    <script src="shop.js"></script>
 </body>
 
 </html>
-
-
