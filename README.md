@@ -41,15 +41,15 @@ index.html and shop.html Screenshots
 
 # Changelog
 
-(Part 1 Submission) 2025-08-27
+**(Part 1 Submission) 2025-08-27**
 Created 5-page website with semantic HTML5
 Navigation, forms, footer, video background
 
-(Part 2 Submission) 2025-09-26
+**(Part 2 Submission) 2025-09-26**
 Responsive Design: Added media queries for mobile (@media max-width:768px) and tablet (@media min-width:769px and max-width:1024px). Adjusted layouts like flex-direction:column, typography, and hide elements like videos on small screens.
 CSS Styling: Created external CSS files like styles.css with base styles (font-family: Questrial, #f7fef9 background), typography, Flexbox layouts, #0027f4 accents, box-shadows, and :hover effects.
 
-(Part 3 Submission) 2025-11-19
+**(Part 3 Submission) 2025-11-19**
 Implemented full shopping cart system using JavaScript and sessionStorage.
 Created dynamic checkout.html with live total and clear cart functionality.
 Added lightbox image gallery on shop page (click any product image → enlarges).
