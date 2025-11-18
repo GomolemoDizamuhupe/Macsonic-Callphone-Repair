@@ -13,7 +13,7 @@ contact.html: Dedicated contact form.
 repair.html: Advanced repair booking with image upload & validation.
 checkout.html: Dynamic cart review, total calculation, clear cart.
 
-Key technologies: HTML5, CSS3 (including Flexbox, media queries for responsive design). JavaScript is used no frameworks and sessionStorage for cart persistence.
+Key technologies: HTML5, CSS3 (including Flexbox, media queries for responsive design), JavaScript is used no frameworks and sessionStorage for cart persistence.
 
 # Screenshots
 index.html and shop.html Screenshots
