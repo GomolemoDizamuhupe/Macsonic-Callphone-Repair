@@ -3,17 +3,24 @@
 
 <head>
   <meta charset="UTF-8">
+  <!--SEO-->
+  <meta name="description"
+    content="Get fast, affordable cellphone and laptop repairs in Kempton Park. Screen replacements, battery fixes & more — visit Macsonic Callphone Repairs today!">
+  <meta name="keywords"
+    content="cellphone repairs, laptop repairs, screen replacement, Kempton Park, Macsonic, affordable phone repair, fast phone fix">
+  <meta name="author" content="Gomolemo Dizamuhupe">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/31e9408e80.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="styles.css">
-  <title>Macsonic Callphone Repairs</title>
+  <title>Macsonic Cellphone Repairs | Fast Phone & Laptop Repair in Kempton Park</title>
 </head>
 
 <body>
-
   <header>
     <!--Navigation bar-->
     <nav class="nav-container">
@@ -25,11 +32,11 @@
       <hr id="divide">
       <div class="nav-content">
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html" style="text-decoration: underline #0027f4;">Home</a></li>
           <li><a href="about_us.html">About</a></li>
           <li><a href="shop.html">Shop</a></li>
           <li><a href="contact.html">Contact</a></li>
-          <li><a href="repair.html">Book for Repair</a></li>
+          <li><a href="repair.html"><span style="color: #000000;">Book for Repair</span></a></li>
         </ul>
       </div>
     </nav>
@@ -40,7 +47,7 @@
   <main>
     <section class="hero">
       <video autoplay muted loop playsinline width="700px" class="hero-background">
-        <source src="6754822-uhd_3840_2160_25fps.mp4" type="video/mp4">
+        <source src="_images/6754822-uhd_3840_2160_25fps.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
 
@@ -64,70 +71,100 @@
     </section>
 
     <!--Products-->
+    <!--Products-->
     <section class="products">
       <div class="products-container">
         <div class="product-heading">
           <h1>Products</h1>
         </div>
 
-        <div class="product-card-container">
-          <!--<button>A</button>-->
-          <!--Arrow left-->
-          <!--<i class="fa-solid fa-arrow-left fa-xl arrow" style="color: #0027f4;"></i>-->
+        <!-- Carousel wrapper -->
+        <div class="carousel-wrapper">
+          <!-- left arrow -->
+          <i class="fa-solid fa-arrow-left fa-xl carousel-arrow carousel-prev" style="color:#0027f4;"></i>
 
-          <div class="product-card">
-            <a href="shop.html">
-              <img src="ACCER-NX.J23EA.002b-990x743.jpg" alt="Product Image">
-              <h2>ACER</h2>
-              <p>R8,000.00</p>
-            </a>
+          <div class="carousel-track-container">
+            <div class="carousel-track">
+              <div class="product-card">
+                <a href="shop.html">
+                  <img src="_images/ACCER-NX.J23EA.002b-990x743.jpg" alt="Acer laptop">
+                  <h2>ACER</h2>
+                  <p>R8,000.00</p>
+                </a>
+              </div>
+
+              <div class="product-card">
+                <a href="shop.html">
+                  <img src="_images/ASUS-P1503CVAb-990x743.webp" alt="Asus laptop">
+                  <h2>ASUS</h2>
+                  <p>R10,000.00</p>
+                </a>
+              </div>
+
+              <div class="product-card">
+                <a href="shop.html">
+                  <img src="_images/DELL-Inspiron-3530-b-990x743.webp" alt="Dell laptop">
+                  <h2>DELL</h2>
+                  <p>R9,500.00</p>
+                </a>
+              </div>
+
+              <div class="product-card">
+                <a href="shop.html">
+                  <img src="_images/HP-250-G10-ash-Black-b-990x743.webp" alt="HP laptop">
+                  <h2>HP</h2>
+                  <p>R4,500.00</p>
+                </a>
+              </div>
+
+              <div class="product-card">
+                <a href="shop.html">
+                  <img src="_images/Lenovo-V15-G2-IJLb-990x743.webp" alt="Lenovo laptop">
+                  <h2>Lenovo</h2>
+                  <p>R5,000.00</p>
+                </a>
+              </div>
+
+              <div class="product-card">
+                <a href="shop.html">
+                  <img src="_images/MacBook_Air_13_inch_M2_Chip_Midnight_0-991x743.jpg" alt="MAC-Book laptop">
+                  <h2>Mac book</h2>
+                  <p>R17,300.00</p>
+                </a>
+              </div>
+
+              <!-- Cloned cards for infinite looping -->
+              <div class="product-card clone">
+                <a href="shop.html">
+                  <img src="_images/ACCER-NX.J23EA.002b-990x743.jpg" alt="Acer laptop">
+                  <h2>ACER</h2>
+                  <p>R8,000.00</p>
+                </a>
+              </div>
+              <div class="product-card clone">
+                <a href="shop.html">
+                  <img src="_images/ASUS-P1503CVAb-990x743.webp" alt="Asus laptop">
+                  <h2>ASUS</h2>
+                  <p>R10,000.00</p>
+                </a>
+              </div>
+              <div class="product-card clone">
+                <a href="shop.html">
+                  <img src="_images/DELL-Inspiron-3530-b-990x743.webp" alt="Dell laptop">
+                  <h2>DELL</h2>
+                  <p>R9,500.00</p>
+                </a>
+              </div>
+            </div>
           </div>
 
-          <div class="product-card">
-            <a href="shop.html">
-              <img src="ASUS-P1503CVAb-990x743.webp" alt="Product Image">
-              <h2>ASUS</h2>
-              <p>R10,000.00</p>
-            </a>
-          </div>
-
-          <div class="product-card">
-            <a href="shop.html">
-              <img src="DELL-Inspiron-3530-b-990x743.webp" alt="Product Image">
-              <h2>DELL</h2>
-              <p>R9,500.00</p>
-            </a>
-          </div>
-
-          <div class="product-card">
-            <a href="shop.html">
-              <img src="HP-250-G10-ash-Black-b-990x743.webp" alt="Product Image">
-              <h2>HP</h2>
-              <p>R4,500.00</p>
-            </a>
-          </div>
-
-          <div class="product-card">
-            <a href="shop.html">
-              <img src="Lenovo-V15-G2-IJLb-990x743.webp" alt="Product Image">
-              <h2>Lenovo</h2>
-              <p>R5,000.00</p>
-            </a>
-          </div>
-
-          <div class="product-card">
-            <a href="shop.html">
-              <img src="MAC-A3113-Midnight-a-500x375.jpg" alt="Product Image">
-              <h2>Mac book</h2>
-              <p>R17,300.00</p>
-            </a>
-          </div>
-          <!--<button>B</button>-->
-          <!--Arrow right-->
-          <!--<i class="fa-solid fa-arrow-right fa-xl arrow" style="color: #0027f4;"></i>-->
-
+          <!-- right arrow -->
+          <i class="fa-solid fa-arrow-right fa-xl carousel-arrow carousel-next" style="color:#0027f4;"></i>
         </div>
-        <div>
+
+        <div class="carousel-dots"></div>
+
+        <div class="shop-now-wrapper">
           <button class="shop-btn"><a href="shop.html">Shop Now</a></button>
         </div>
       </div>
@@ -271,48 +308,48 @@
         </div>
       </div>
     </section>
-
-    <!--Footer section-->
-    <footer>
-      <div class="footer-content">
-        <div class="footer-address">
-          <ul>
-            <li>+27 78 473 0033</li>
-            <li>16 Isando Rd, </li>
-            <li>Isando,</li>
-            <li>Kempton Park,</li>
-            <li>1600</li>
-          </ul>
-        </div>
-        <div class="footer-socials">
-          <ul>
-            <li><a href="#"><i class="fa-brands fa-facebook fa-xs" style="color: #ffffff;"></i> Facebook</a></li>
-            <br>
-            <li><a href="#"><i class="fa-brands fa-x-twitter fa-xs" style="color: #ffffff;"></i> Twitter</a></li>
-            <br>
-            <li><a href="#"><i class="fa-brands fa-instagram fa-xs" style="color: #ffffff;"></i> Instagram</a></li>
-          </ul>
-        </div>
-        <div class="footer-links">
-          <ul>
-            <li><a href="#">Privacy Policy</a></li>
-            <br>
-            <li><a href="#">Terms of Service</a></li>
-            <br>
-            <li><a href="#">Contact Us</a></li>
-            <br>
-            <li style="color: #ffffff;">&copy; ST10491441. All rights reserved.</li>
-          </ul>
-        </div>
-      </div>
-    </footer>
-
   </main>
-  <script src="script.js"></script>
 
+  <!--Footer section-->
+  <footer>
+    <div class="footer-content">
+      <div class="footer-address">
+        <ul>
+          <li><a href="tell:+27 72 456 8910" style="color: #ffffff; text-decoration: none;">+27 72 456 8910</a></li>
+          <br>
+          <li><a href="mailto:gomolemodizamuhupe@gmail.com"
+              style="color: #ffffff; text-decoration: none;">gomolemodizamuhupe@gmail.com</a></li>
+          <br>
+          <li>16 Isando Rd, </li>
+          <li>Isando,</li>
+          <li>Kempton Park,</li>
+          <li>1600</li>
+        </ul>
+      </div>
+      <div class="footer-socials">
+        <ul>
+          <li><a href="#"><i class="fa-brands fa-facebook fa-xs" style="color: #ffffff;"></i> Facebook</a></li>
+          <br>
+          <li><a href="#"><i class="fa-brands fa-x-twitter fa-xs" style="color: #ffffff;"></i> Twitter</a></li>
+          <br>
+          <li><a href="#"><i class="fa-brands fa-instagram fa-xs" style="color: #ffffff;"></i> Instagram</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <ul>
+          <li><a href="#">Privacy Policy</a></li>
+          <br>
+          <li><a href="#">Terms of Service</a></li>
+          <br>
+          <li><a href="#">Contact Us</a></li>
+          <br>
+          <li style="color: #ffffff;">&copy; ST10491441. All rights reserved.</li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script src="index.js"></script>
 </body>
 
 </html>
-
-
-
