@@ -1,17 +1,19 @@
 # Macsonic Callphone Repairs Website
-# Project Overview (Part 2)
+# Project Overview (Portfolio of Evidence)
 
 This is a multi-page website developed for "Macsonic Callphone Repairs," a business offering mobile phone and laptop repair services, as well as sales of refurbished and new devices. 
 Part 1: Focused on HTML structure, content creation, and basic functionality (e.g., navigation, forms).
 Part 2: Enhanced with CSS styling, responsive design using media queries, Flexbox layouts, and visual elements like colors, shadows, and transitions.
+Part 3: Advanced JavaScript functionality, form validation, dynamic content, SEO optimisation & interactive features
 
-index.html: Home page with hero section, about, products overview, testimonials, and contact form.
+index.html: Home page with hero section, about, products overview, carousel, testimonials, and contact form.
 about_us.html: History and vision.
-shop.html: Product listings with images and prices.
+shop.html: Product grid with search, product listings with images and prices, lightbox, add-to-cart & cart badge.
 contact.html: Dedicated contact form.
-repair.html: Repair booking form with a video.
+repair.html: Advanced repair booking with image upload & validation.
+checkout.html: Dynamic cart review, total calculation, clear cart.
 
-Key technologies: HTML5, CSS3 (including Flexbox, media queries for responsive design). No JavaScript is used.
+Key technologies: HTML5, CSS3 (including Flexbox, media queries for responsive design). JavaScript is used no frameworks and sessionStorage for cart persistence.
 
 # Screenshots
 index.html and shop.html Screenshots
@@ -39,10 +41,25 @@ index.html and shop.html Screenshots
 
 # Changelog
 
-(Part 2 Submission) 2025-09-26
+(Part 1 Submission) 2025-08-27
+Created 5-page website with semantic HTML5
+Navigation, forms, footer, video background
 
+(Part 2 Submission) 2025-09-26
 Responsive Design: Added media queries for mobile (@media max-width:768px) and tablet (@media min-width:769px and max-width:1024px). Adjusted layouts like flex-direction:column, typography, and hide elements like videos on small screens.
 CSS Styling: Created external CSS files like styles.css with base styles (font-family: Questrial, #f7fef9 background), typography, Flexbox layouts, #0027f4 accents, box-shadows, and :hover effects.
+
+(Part 3 Submission) 2025-11-19
+Implemented full shopping cart system using JavaScript and sessionStorage.
+Created dynamic checkout.html with live total and clear cart functionality.
+Added lightbox image gallery on shop page (click any product image → enlarges).
+Built real-time product search/filter search bar on shop page.
+Enhanced repair.html with: image preview, form validation, character counter, animated success.
+Added infinite auto-playing carousel to homepage with pause-on-hover.
+Added live cart counter badge on shop page header.
+Applied comprehensive SEO meta tags, titles, descriptions and alt text across all pages.
+Improved accessibility with proper labels, ARIA-ready structure and semantic HTML.
+Optimised all JavaScript for performance and mobile compatibility.
 
 # Feedback Fixes:
 Fixed image src paths by removing leading '/' (e.g., src="_images/ACER-NX_123EA_0092b-990x743.jpg") for the feedback.
