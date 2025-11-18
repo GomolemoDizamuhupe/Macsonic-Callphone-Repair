@@ -53,7 +53,7 @@ CSS Styling: Created external CSS files like styles.css with base styles (font-f
 Implemented full shopping cart system using JavaScript and sessionStorage.
 Created dynamic checkout.html with live total and clear cart functionality.
 Added lightbox image gallery on shop page (click any product image → enlarges).
-Built real-time product search/filter search bar on shop page.
+Built real-time product search bar on shop page.
 Enhanced repair.html with: image preview, form validation, character counter, animated success.
 Added infinite auto-playing carousel to homepage with pause-on-hover.
 Added live cart counter badge on shop page header.
