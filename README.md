@@ -2,8 +2,11 @@
 # Project Overview (Portfolio of Evidence)
 
 This is a multi-page website developed for "Macsonic Callphone Repairs," a business offering mobile phone and laptop repair services, as well as sales of refurbished and new devices. 
+
 Part 1: Focused on HTML structure, content creation, and basic functionality (e.g., navigation, forms).
+
 Part 2: Enhanced with CSS styling, responsive design using media queries, Flexbox layouts, and visual elements like colors, shadows, and transitions.
+
 Part 3: Advanced JavaScript functionality, form validation, dynamic content, SEO optimisation & interactive features
 
 index.html: Home page with hero section, about, products overview, carousel, testimonials, and contact form.
